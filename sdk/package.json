@@ -1,5 +1,5 @@
 {
-  "name": "@pprevankar/sdk-access_control/github-sdk_pkg",
+  "name": "@pprevankar/github-sdk_pkg",
   "version": "1.0.0",
   "description": "Checking for accessing child SDK package creation",
   "main": "index.js",
@@ -19,7 +19,7 @@
   "author": "cret",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pprevankar/sdk-access_control/github-sdk_pkg/issues"
+    "url": "https://github.com/pprevankar/sdk-access_control/issues"
   },
-  "homepage": "https://github.com/pprevankar/sdk-access_control/github-sdk_pkg#readme"
+  "homepage": "https://github.com/pprevankar/sdk-access_control#readme"
 }
